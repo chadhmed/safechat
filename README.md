@@ -14,7 +14,8 @@ SafeChat is an encrypted peer-to-peer messaging application with group chat feat
 - **Frontend**: HTML, CSS
 - **Backend**: Python (Django framework)
 - **Database**: [Sql Built-In]
-- **Encryption**: [Asgi & fernet]
+- **Encryption**: [fernet]
+- **Asynchronous Server Gateway Interface**: for real time message handling
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript, Ajax
 - **Backend**: Python (Django framework)
